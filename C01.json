@@ -3,12 +3,12 @@
     {
             "title": "Detailed Syallabus",
             "video": "https://www.youtube.com/embed/acnBRQNDnJM",
-            "quiz": []
+            "quiz": ["https://google.com","https://facebook.com","https://linkedin.com"]
     },
     {
             "title": "Test Instructions",
             "video": "https://www.youtube.com/embed/E64FROe1aXM",
-            "quiz": []
+            "quiz": ["https://google.com","https://facebook.com","https://linkedin.com"]
     }
   ],
   "02": [
