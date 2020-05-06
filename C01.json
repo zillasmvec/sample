@@ -1,0 +1,26 @@
+{
+  "01": [
+    {
+            "title": "Detailed Syallabus",
+            "video": "https://www.youtube.com/embed/acnBRQNDnJM",
+            "quiz": []
+    },
+    {
+            "title": "Test Instructions",
+            "video": "https://www.youtube.com/embed/E64FROe1aXM",
+            "quiz": []
+    }
+  ],
+  "02": [
+    {
+            "title": "Ratio Proportion Basics",
+            "video": "https://www.youtube.com/embed/MpoCnjEBAaM",
+            "quiz": []
+    },
+    {
+            "title": "Ratio Proportion Types",
+            "video": "https://www.youtube.com/embed/MpoCnjEBAaM",
+            "quiz": []
+    }
+  ]
+}
