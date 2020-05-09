@@ -1,5 +1,5 @@
 {
-      "Photoshop": [
+      "photoshop": [
             {
                   "Name": "Evanick Ryan",
                   "Email": "evanickryan@gmail.com",
@@ -204,7 +204,7 @@
                   "C_date": "2020-05-08 20:31:56.597000"
             }
       ],
-      "Python_Programming": [
+      "python": [
             {
                   "Name": "Evanick Ryan",
                   "Email": "evanickryan@gmail.com",
@@ -563,7 +563,7 @@
                   "C_date": "2020-05-08 20:57:17.408000"
             }
       ],
-      "C_Programming": [
+      "c": [
             {
                   "Name": "Rahul.B",
                   "Email": "jennyfrankrose@gmail.com",
